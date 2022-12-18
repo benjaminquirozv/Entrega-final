@@ -1,3 +1,3 @@
 # Código de la Aplicación
 
-Subir archivo **.apk** y código de la APK ([descargar desde acá](http://appinventor.mit.edu/explore/support/sharing-code.html))
+La aplicación se puede descargar en formato .aia, a través del siguiente link ([descargar desde acá](https://github.com/benjaminquirozv/Template-/blob/master/codigos/APK/App_corregida_final.aia?raw=true))
