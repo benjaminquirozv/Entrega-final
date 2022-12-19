@@ -11,4 +11,4 @@ También, lo podemos ver en pelea:
 
 El resultado final de nuestro robot es el siguiente:
 
-![] (https://github.com/benjaminquirozv/Entrega-final/blob/4274d85f1d3c2fc048345a2525473a71ef3c1523/multimedia/Foto_Kumabell.png)
+![](https://github.com/benjaminquirozv/Entrega-final/blob/4274d85f1d3c2fc048345a2525473a71ef3c1523/multimedia/Foto_Kumabell.png)
