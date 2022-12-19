@@ -27,6 +27,7 @@
 
 ### *BONUS*: Paso a Paso
 <El paso a paso para construir el robot es el siguiente:
+    
 1. Primero, >
 
 ## Licencia
