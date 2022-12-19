@@ -2,7 +2,7 @@
 
 Podemos observar el battebot en funcionamiento en el siguiente video:
 
-[![Alt text](https://img.youtube.com/vi/uhe57u8PC5c/0.jpg)](https://www.youtube.com/watch?v=uhe57u8PC5c)
+[![Alt text](https://img.youtube.com/vi/ohCSLSpoqmg/0.jpg)](https://www.youtube.com/watch?v=ohCSLSpoqmg)
 
 
 También, lo podemos ver en pelea:
